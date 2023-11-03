@@ -1,42 +1,47 @@
 [
   {
-    "code" : "001",
-    "name" : "กะหล่ําปลี",
-    "detail" : {
-      "price" : 50,
-      "expired" : "2023-07-30T00:00:00"
+    "code": "001",
+    "name": "ปลาแซลม่อน",
+    "detail": {
+      "price": 50,
+      "quantity" : 4,
+      "expired": "2023-07-30T00:00:00"
     }
   },
   {
-    "code" : "002",
-    "name" : "มะเขือ",
-    "detail" : {
-      "price" : 10,
-      "expired" : "2023-07-23T00:00:00"
+    "code": "002",
+    "name": "ปลาช่อน",
+    "detail": {
+      "price": 10,
+      "quantity" : 5,
+      "expired": "2023-07-23T00:00:00"
     }
   },
   {
-    "code" : "003",
-    "name" : "แตงกวา",
-    "detail" : {
-      "price" : 5,
-      "expired" : "2023-07-24T00:00:00"
+    "code": "003",
+    "name": "ปลาทู",
+    "detail": {
+      "price": 5,
+      "quantity" : 5,
+      "expired": "2023-07-24T00:00:00"
     }
   },
   {
-    "code" : "004",
-    "name" : "ต้นหอม",
-    "detail" : {
-      "price" : 20,
-      "expired" : "2023-07-20T00:00:00"
+    "code": "004",
+    "name": "ปลานิล",
+    "detail": {
+      "price": 20,
+      "quantity" : 5,
+      "expired": "2023-07-20T00:00:00"
     }
   },
   {
-    "code" : "005",
-    "name" : "มะนาว",
-    "detail" : {
-      "price" : 1,
-      "expired" : "2023-07-21T00:00:00"
+    "code": "005",
+    "name": "ปลาหมอ",
+    "detail": {
+      "price": 1,
+      "quantity" : 10,
+      "expired": "2023-07-21T00:00:00"
     }
   }
 ]
